@@ -40,3 +40,10 @@ export class AuthService {
     return { token };
   }
 }
+//apllication nabegi usmai user name password daalna padega ;
+
+/*token ka end point hota hai return token user name of password ke basis pe 
+
+
+
+ */
