@@ -12,3 +12,6 @@ export class LoginData {
   @MinLength(6, { message: 'Password must be at least 6 characters long' })
   password: string;
 }
+
+// "start:dev": "nest start --watch",
+// "start:debug": "nest start --debug --watch",
